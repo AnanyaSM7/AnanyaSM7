@@ -1,6 +1,8 @@
  
 
 # Hi 👋 I'm Ananya :) 
+**Full Stack Developer in progress. Crafting complete web experiences from UI to logic.**
+
 
 
 
@@ -11,7 +13,7 @@
 
 <div align="center">
 
-Full Stack Developer in progress. Crafting complete web experiences from UI to logic.
+
 
 <br/>
 
