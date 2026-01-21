@@ -1,7 +1,7 @@
  
 
 # Hi 👋 I'm Ananya :) 
-**Full Stack Developer in progress. Crafting complete web experiences from UI to logic.**
+**Passionate Computer Science Student. Turning ideas into interactive web experiences.**
 
 
 <div align="center">
