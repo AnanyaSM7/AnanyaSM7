@@ -4,12 +4,16 @@
 **Full Stack Developer in progress. Crafting complete web experiences from UI to logic.**
 
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="450"/>
+
+<br/>
 
 
 
 
-
-
+</div>
 
 <div align="center">
 
@@ -27,16 +31,27 @@
 ## 🛠️ **Tech Stack**
 
 
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />
+</div>
 
 <br/>
 
