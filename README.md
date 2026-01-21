@@ -46,6 +46,9 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" />
   &nbsp;&nbsp;
+ 
+<img src="https://skillicons.dev/icons?i=firebase" />
+&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" />
