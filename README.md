@@ -55,6 +55,9 @@
   <img src="https://skillicons.dev/icons?i=git" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+
 </div>
 
 <br/>
