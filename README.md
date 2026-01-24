@@ -39,24 +39,25 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" />
-  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" />
   &nbsp;&nbsp;
- 
-<img src="https://skillicons.dev/icons?i=firebase" />
-&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  
 
 </div>
 
