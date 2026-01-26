@@ -43,11 +43,7 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" />
   &nbsp;&nbsp;
