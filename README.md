@@ -1,7 +1,7 @@
  
 
 # Hi 👋 I'm Ananya :) 
-**Passionate Computer Science Student. Turning ideas into interactive web experiences.**
+**A passionate Computer Science Student. Turning ideas into interactive web experiences.**
 
 
 <div align="center">
@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=html" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" />
+  &nbsp;&nbsp;
+ <img src="https://skillicons.dev/icons?i=tailwindcss" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" />
   &nbsp;&nbsp;
